@@ -1,6 +1,7 @@
 {
   "type": "FeatureCollection",
-  "features": [{
+  "features": [
+    {
       "type": "Feature",
       "geometry": {
         "type": "Polygon",
@@ -14065,6 +14066,5 @@
       },
       "id": "0983E22A393003F677E8"
     }
- 
   ]
 }
